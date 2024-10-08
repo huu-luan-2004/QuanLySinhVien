@@ -1,0 +1,15 @@
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+E:\Winform\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+E:\Winform\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\Winform\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+E:\Winform\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.dll
+E:\Winform\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.dll
+E:\Winform\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.xml
+E:\Winform\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.xml
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySi.3CF0D20D.Up2Date
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+E:\Winform\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
